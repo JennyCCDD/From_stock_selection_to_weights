@@ -4,7 +4,7 @@ This is what I did for a contest in 2020/08/2.
 
 In this contest, participates had to get the updated data from GRPC and upload their weights for each stock.
 
-So, I learned how to write GRPC in python from this [https://space.bilibili.com/376995746/channel/detail?cid=124886]:dewei_zhang的grpc-python
+So, I learned how to write GRPC in python from this [https://space.bilibili.com/376995746/channel/detail?cid=124886]: dewei_zhang的grpc-python
 
 To learn something from the sample data given, I refered this link to try to get new factors [https://www.joinquant.com/view/community/detail/6e594923d168b1592e8737c88988d91e?type=1]:聚宽-基于遗传规划自动挖掘因子. However, the new factors are not good.
 
