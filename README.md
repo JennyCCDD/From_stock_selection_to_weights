@@ -14,5 +14,19 @@ Also, I used 国泰君安 Alpha191 to generate technical factors and use LightBG
 
 Then, I tried [online portfolio selection](https://github.com/Marigold/universal-portfolios). In sample result was good but I didn't have the time to use it in the real contest.
 
-![Alt](https://github.com/JennyCCDD/From_stock_selection_to_weights/blob/master/to-show/result.png#pic_center =30x30)
-
+---------------------------------------
+Summary:
+    Profit factor: 2.33
+    Sharpe ratio: 4.03
+    Information ratio (wrt UCRP): 3.88
+    UCRP sharpe: 2.30
+    Beta / Alpha: 1.57 / 501.751%
+    Annualized return: 9898.44%
+    Annualized volatility: 120.93%
+    Longest drawdown: 61 days
+    Max drawdown: 51.39%
+    Winning days: 52.4%
+    Turnover: 1509.4
+        
+程序运行时间：216.8111 s
+---------------------------------------
