@@ -16,17 +16,29 @@ Then, I tried [online portfolio selection](https://github.com/Marigold/universal
 
 ---------------------------------------
 Summary:
+
     Profit factor: 2.33
+    
     Sharpe ratio: 4.03
+    
     Information ratio (wrt UCRP): 3.88
+    
     UCRP sharpe: 2.30
+    
     Beta / Alpha: 1.57 / 501.751%
+    
     Annualized return: 9898.44%
+    
     Annualized volatility: 120.93%
+    
     Longest drawdown: 61 days
+    
     Max drawdown: 51.39%
+    
     Winning days: 52.4%
+    
     Turnover: 1509.4
         
 程序运行时间：216.8111 s
+
 ---------------------------------------
